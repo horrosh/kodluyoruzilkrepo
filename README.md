@@ -21,3 +21,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 MIT
 
+
+![Projegörseli]https://user-images.githubusercontent.com/123302788/214692336-1d91b1a7-6671-4cb5-b1bb-11123b389bc0.png
+
+## Patika.dev/Mustafa Çalışır
+https://app.patika.dev/corrector
